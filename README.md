@@ -9,5 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 This repo contains.
 
 1.Tidy dataset. 
+
 2.run_analysis.R script. 
+
 3.Codebook descriping variables, the data, and any transformations or work that were performed to clean up the data.
